@@ -18,3 +18,8 @@ Assets/Scenesフォルダ以下にある各Sceneを開いて実行して下さ�
 - [CS.unity](https://github.com/katsumasa/GameOfLife/blob/main/Assets/Scenes/CS.unity)
 
 Visual Scriptingは極端にパフォーマンスが悪く、UnityEditor上で実行する場合は、cellMapのサイズを30x30未満にすることをお勧めします。(cellMapのサイズを100x100にした際、CPUがIntel(R) Core(TM) i7-10875Hの場合でもUnityEditorがフリーズしました。)
+
+### 参考URL
+
+https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B2%E3%83%BC%E3%83%A0
+
