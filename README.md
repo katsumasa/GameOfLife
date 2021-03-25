@@ -17,5 +17,4 @@ Assets/Scenesフォルダ以下にある各Sceneを開いて実行して下さ�
 - [VisualScripting.unity](https://github.com/katsumasa/GameOfLife/blob/main/Assets/Scenes/VisualScripting.unity)
 - [CS.unity](https://github.com/katsumasa/GameOfLife/blob/main/Assets/Scenes/CS.unity)
 
-```Visual Scriptingは極端にパフォーマンスが悪く、UnityEditor上で実行する場合は、cellMapのサイズを30x30未満にすることをお勧めします。(cellMapのサイズを100x100にした際、CPUがIntel(R) Core(TM) i7-10875Hの場合でもUnityEditorがフリーズしました。)
-```
+Visual Scriptingは極端にパフォーマンスが悪く、UnityEditor上で実行する場合は、cellMapのサイズを30x30未満にすることをお勧めします。(cellMapのサイズを100x100にした際、CPUがIntel(R) Core(TM) i7-10875Hの場合でもUnityEditorがフリーズしました。)
